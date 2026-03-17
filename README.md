@@ -1,6 +1,4 @@
 # Opulent-Decor-and-Events-
-Client  form
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
